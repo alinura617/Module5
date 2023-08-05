@@ -1,0 +1,392 @@
+<mxfile host="app.diagrams.net" modified="2023-08-05T06:04:14.334Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.4 Safari/605.1.15" etag="Kb-Md9Km7mChgBHzDkzm" version="21.6.6" type="github">
+  <diagram name="Page-1" id="YOUeaYOoB0gza-PgzR2D">
+    <mxGraphModel dx="2526" dy="2588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LTcShVjCQXSDcKIN3kMi-5" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LTcShVjCQXSDcKIN3kMi-2" target="LTcShVjCQXSDcKIN3kMi-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LTcShVjCQXSDcKIN3kMi-34" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LTcShVjCQXSDcKIN3kMi-33" target="LTcShVjCQXSDcKIN3kMi-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LTcShVjCQXSDcKIN3kMi-38" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LTcShVjCQXSDcKIN3kMi-2" target="LTcShVjCQXSDcKIN3kMi-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LTcShVjCQXSDcKIN3kMi-76" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LTcShVjCQXSDcKIN3kMi-2" target="LTcShVjCQXSDcKIN3kMi-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LTcShVjCQXSDcKIN3kMi-101" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LTcShVjCQXSDcKIN3kMi-2" target="LTcShVjCQXSDcKIN3kMi-100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LTcShVjCQXSDcKIN3kMi-126" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.425;entryY=0.014;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LTcShVjCQXSDcKIN3kMi-2" target="LTcShVjCQXSDcKIN3kMi-124">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LTcShVjCQXSDcKIN3kMi-2" value="START" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="370" y="30" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LTcShVjCQXSDcKIN3kMi-43" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LTcShVjCQXSDcKIN3kMi-3" target="LTcShVjCQXSDcKIN3kMi-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LTcShVjCQXSDcKIN3kMi-45" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LTcShVjCQXSDcKIN3kMi-3" target="LTcShVjCQXSDcKIN3kMi-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LTcShVjCQXSDcKIN3kMi-47" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.433;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LTcShVjCQXSDcKIN3kMi-3" target="LTcShVjCQXSDcKIN3kMi-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LTcShVjCQXSDcKIN3kMi-49" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LTcShVjCQXSDcKIN3kMi-3" target="LTcShVjCQXSDcKIN3kMi-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LTcShVjCQXSDcKIN3kMi-3" value="Theater Crime Scene" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LTcShVjCQXSDcKIN3kMi-44" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LTcShVjCQXSDcKIN3kMi-6" target="LTcShVjCQXSDcKIN3kMi-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LTcShVjCQXSDcKIN3kMi-6" value="Examine Stage for Clues" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LTcShVjCQXSDcKIN3kMi-51" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="380" as="sourcePoint" />
+            <mxPoint x="405" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LTcShVjCQXSDcKIN3kMi-8" value="Find Hidden Trapdoor" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="320" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LTcShVjCQXSDcKIN3kMi-46" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LTcShVjCQXSDcKIN3kMi-12" target="LTcShVjCQXSDcKIN3kMi-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LTcShVjCQXSDcKIN3kMi-12" value="Interview Witnesses" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LTcShVjCQXSDcKIN3kMi-52" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=-0.033;entryY=0.388;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LTcShVjCQXSDcKIN3kMi-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="408.02" y="551.04" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LTcShVjCQXSDcKIN3kMi-15" value="Gather Information" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LTcShVjCQXSDcKIN3kMi-48" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LTcShVjCQXSDcKIN3kMi-17" target="LTcShVjCQXSDcKIN3kMi-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LTcShVjCQXSDcKIN3kMi-17" value="Search Dressing Room" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LTcShVjCQXSDcKIN3kMi-53" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LTcShVjCQXSDcKIN3kMi-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LTcShVjCQXSDcKIN3kMi-19" value="Find Suspicious Letter" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LTcShVjCQXSDcKIN3kMi-50" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.392;entryY=-0.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LTcShVjCQXSDcKIN3kMi-21" target="LTcShVjCQXSDcKIN3kMi-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LTcShVjCQXSDcKIN3kMi-21" value="Visit Bryan&#39;s Mansion" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LTcShVjCQXSDcKIN3kMi-54" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="LTcShVjCQXSDcKIN3kMi-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="455.96330275229366" y="550.6422018348624" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LTcShVjCQXSDcKIN3kMi-23" value="Discover Locked Study" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LTcShVjCQXSDcKIN3kMi-31" value="Chapter 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LTcShVjCQXSDcKIN3kMi-56" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LTcShVjCQXSDcKIN3kMi-32" target="LTcShVjCQXSDcKIN3kMi-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LTcShVjCQXSDcKIN3kMi-59" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LTcShVjCQXSDcKIN3kMi-32" target="LTcShVjCQXSDcKIN3kMi-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LTcShVjCQXSDcKIN3kMi-63" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="LTcShVjCQXSDcKIN3kMi-32" target="LTcShVjCQXSDcKIN3kMi-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LTcShVjCQXSDcKIN3kMi-67" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.092;entryY=-0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LTcShVjCQXSDcKIN3kMi-32" target="LTcShVjCQXSDcKIN3kMi-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LTcShVjCQXSDcKIN3kMi-32" value="Explore Bryan&#39;s Mansion" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="40" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LTcShVjCQXSDcKIN3kMi-33" value="Chapter 2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LTcShVjCQXSDcKIN3kMi-57" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LTcShVjCQXSDcKIN3kMi-39" target="LTcShVjCQXSDcKIN3kMi-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LTcShVjCQXSDcKIN3kMi-39" value="Investigate Study" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="-50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LTcShVjCQXSDcKIN3kMi-71" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LTcShVjCQXSDcKIN3kMi-41" target="LTcShVjCQXSDcKIN3kMi-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LTcShVjCQXSDcKIN3kMi-41" value="Find Mysterious Book with Symbols" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="-120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LTcShVjCQXSDcKIN3kMi-55" value="END" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="390" y="540" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LTcShVjCQXSDcKIN3kMi-61" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LTcShVjCQXSDcKIN3kMi-58" target="LTcShVjCQXSDcKIN3kMi-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LTcShVjCQXSDcKIN3kMi-58" value="Uncover Hidden Rooms" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LTcShVjCQXSDcKIN3kMi-72" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=-0.012;entryY=0.6;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LTcShVjCQXSDcKIN3kMi-60" target="LTcShVjCQXSDcKIN3kMi-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LTcShVjCQXSDcKIN3kMi-60" value="Discover Secret Laboratory" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LTcShVjCQXSDcKIN3kMi-65" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="LTcShVjCQXSDcKIN3kMi-62" target="LTcShVjCQXSDcKIN3kMi-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LTcShVjCQXSDcKIN3kMi-62" value="Solve Puzzles and Riddles" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LTcShVjCQXSDcKIN3kMi-73" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="LTcShVjCQXSDcKIN3kMi-64" target="LTcShVjCQXSDcKIN3kMi-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LTcShVjCQXSDcKIN3kMi-64" value="Reveal Hidden Chamber with Clues" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="980" y="160" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LTcShVjCQXSDcKIN3kMi-69" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.2;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LTcShVjCQXSDcKIN3kMi-66" target="LTcShVjCQXSDcKIN3kMi-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LTcShVjCQXSDcKIN3kMi-66" value="Interrogate Mansion Staff" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LTcShVjCQXSDcKIN3kMi-74" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.288;entryY=1.013;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LTcShVjCQXSDcKIN3kMi-68" target="LTcShVjCQXSDcKIN3kMi-70">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1210" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LTcShVjCQXSDcKIN3kMi-68" value="Unearth Conflicting Statements" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="910" y="300" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LTcShVjCQXSDcKIN3kMi-70" value="END" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="40" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LTcShVjCQXSDcKIN3kMi-78" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LTcShVjCQXSDcKIN3kMi-75" target="LTcShVjCQXSDcKIN3kMi-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LTcShVjCQXSDcKIN3kMi-75" value="Chapter 3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="-70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LTcShVjCQXSDcKIN3kMi-80" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LTcShVjCQXSDcKIN3kMi-77" target="LTcShVjCQXSDcKIN3kMi-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LTcShVjCQXSDcKIN3kMi-84" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LTcShVjCQXSDcKIN3kMi-77" target="LTcShVjCQXSDcKIN3kMi-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LTcShVjCQXSDcKIN3kMi-88" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="LTcShVjCQXSDcKIN3kMi-77" target="LTcShVjCQXSDcKIN3kMi-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LTcShVjCQXSDcKIN3kMi-92" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.342;entryY=1.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LTcShVjCQXSDcKIN3kMi-77" target="LTcShVjCQXSDcKIN3kMi-91">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LTcShVjCQXSDcKIN3kMi-77" value="Decipher Symbols from Mysterious Book" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="-160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LTcShVjCQXSDcKIN3kMi-82" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="LTcShVjCQXSDcKIN3kMi-79" target="LTcShVjCQXSDcKIN3kMi-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LTcShVjCQXSDcKIN3kMi-79" value="Research Ancient Symbols" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="-210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LTcShVjCQXSDcKIN3kMi-96" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.05;entryY=0.713;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LTcShVjCQXSDcKIN3kMi-81" target="LTcShVjCQXSDcKIN3kMi-95">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LTcShVjCQXSDcKIN3kMi-81" value="Learn about Hidden Artifact" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="-300" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LTcShVjCQXSDcKIN3kMi-86" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LTcShVjCQXSDcKIN3kMi-83" target="LTcShVjCQXSDcKIN3kMi-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LTcShVjCQXSDcKIN3kMi-83" value="Consult Local Historian" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="-270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LTcShVjCQXSDcKIN3kMi-97" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.35;entryY=1.038;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LTcShVjCQXSDcKIN3kMi-85" target="LTcShVjCQXSDcKIN3kMi-95">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LTcShVjCQXSDcKIN3kMi-85" value="Gain Insights into Bishkek&#39;s History" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="305" y="-360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LTcShVjCQXSDcKIN3kMi-90" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LTcShVjCQXSDcKIN3kMi-87" target="LTcShVjCQXSDcKIN3kMi-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LTcShVjCQXSDcKIN3kMi-87" value="Combine Clues to Form a Pattern" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="-250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LTcShVjCQXSDcKIN3kMi-98" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.638;entryY=1.038;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LTcShVjCQXSDcKIN3kMi-89" target="LTcShVjCQXSDcKIN3kMi-95">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LTcShVjCQXSDcKIN3kMi-89" value="Identify a Pattern of Past Disappearances" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="-340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LTcShVjCQXSDcKIN3kMi-94" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LTcShVjCQXSDcKIN3kMi-91" target="LTcShVjCQXSDcKIN3kMi-93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LTcShVjCQXSDcKIN3kMi-91" value="Pursue Leads related to the Artifact" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="-280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LTcShVjCQXSDcKIN3kMi-99" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="LTcShVjCQXSDcKIN3kMi-93" target="LTcShVjCQXSDcKIN3kMi-95">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LTcShVjCQXSDcKIN3kMi-93" value="Learn about Cursed Amulet" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="-370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LTcShVjCQXSDcKIN3kMi-95" value="END" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="420" y="-550" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LTcShVjCQXSDcKIN3kMi-104" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="LTcShVjCQXSDcKIN3kMi-100" target="LTcShVjCQXSDcKIN3kMi-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LTcShVjCQXSDcKIN3kMi-108" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LTcShVjCQXSDcKIN3kMi-100" target="LTcShVjCQXSDcKIN3kMi-107">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LTcShVjCQXSDcKIN3kMi-112" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LTcShVjCQXSDcKIN3kMi-100" target="LTcShVjCQXSDcKIN3kMi-111">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LTcShVjCQXSDcKIN3kMi-116" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LTcShVjCQXSDcKIN3kMi-100" target="LTcShVjCQXSDcKIN3kMi-115">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LTcShVjCQXSDcKIN3kMi-100" value="Chapter 4" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LTcShVjCQXSDcKIN3kMi-106" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="LTcShVjCQXSDcKIN3kMi-102" target="LTcShVjCQXSDcKIN3kMi-105">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LTcShVjCQXSDcKIN3kMi-102" value="Navigate through Forest" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="-50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LTcShVjCQXSDcKIN3kMi-120" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.62;entryY=-0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LTcShVjCQXSDcKIN3kMi-105" target="LTcShVjCQXSDcKIN3kMi-119">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LTcShVjCQXSDcKIN3kMi-105" value="Encounter Supernatural Occurrences" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="-140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LTcShVjCQXSDcKIN3kMi-110" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.679;entryY=1.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LTcShVjCQXSDcKIN3kMi-107" target="LTcShVjCQXSDcKIN3kMi-109">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LTcShVjCQXSDcKIN3kMi-107" value="Find Clues within Haunted Cavern" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="35" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LTcShVjCQXSDcKIN3kMi-121" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.954;entryY=0.209;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LTcShVjCQXSDcKIN3kMi-109" target="LTcShVjCQXSDcKIN3kMi-119">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LTcShVjCQXSDcKIN3kMi-109" value="Discover Mysterious Symbols" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="-50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LTcShVjCQXSDcKIN3kMi-114" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LTcShVjCQXSDcKIN3kMi-111" target="LTcShVjCQXSDcKIN3kMi-113">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LTcShVjCQXSDcKIN3kMi-111" value="Uncover History of the Amulet" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LTcShVjCQXSDcKIN3kMi-122" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="LTcShVjCQXSDcKIN3kMi-113" target="LTcShVjCQXSDcKIN3kMi-119">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LTcShVjCQXSDcKIN3kMi-113" value="Learn about Dark Origins" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LTcShVjCQXSDcKIN3kMi-118" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.973;entryY=0.453;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LTcShVjCQXSDcKIN3kMi-115" target="LTcShVjCQXSDcKIN3kMi-117">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LTcShVjCQXSDcKIN3kMi-115" value="Face off against Mystical Creatures" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LTcShVjCQXSDcKIN3kMi-123" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.668;entryY=1.018;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LTcShVjCQXSDcKIN3kMi-117" target="LTcShVjCQXSDcKIN3kMi-119">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LTcShVjCQXSDcKIN3kMi-117" value="Overcome Guardian Obstacle" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LTcShVjCQXSDcKIN3kMi-119" value="END" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-330" y="40" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LTcShVjCQXSDcKIN3kMi-128" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.588;entryY=-0.073;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LTcShVjCQXSDcKIN3kMi-124" target="LTcShVjCQXSDcKIN3kMi-127">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LTcShVjCQXSDcKIN3kMi-124" value="Chapter 5" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LTcShVjCQXSDcKIN3kMi-130" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LTcShVjCQXSDcKIN3kMi-127" target="LTcShVjCQXSDcKIN3kMi-129">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LTcShVjCQXSDcKIN3kMi-134" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LTcShVjCQXSDcKIN3kMi-127" target="LTcShVjCQXSDcKIN3kMi-133">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LTcShVjCQXSDcKIN3kMi-138" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LTcShVjCQXSDcKIN3kMi-127" target="LTcShVjCQXSDcKIN3kMi-137">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LTcShVjCQXSDcKIN3kMi-142" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LTcShVjCQXSDcKIN3kMi-127" target="LTcShVjCQXSDcKIN3kMi-141">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LTcShVjCQXSDcKIN3kMi-127" value="Return to Bishkek Theater for Final Showdown" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LTcShVjCQXSDcKIN3kMi-132" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.552;entryY=-0.001;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LTcShVjCQXSDcKIN3kMi-129" target="LTcShVjCQXSDcKIN3kMi-131">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LTcShVjCQXSDcKIN3kMi-129" value="Gather all Evidence" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-270" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LTcShVjCQXSDcKIN3kMi-146" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LTcShVjCQXSDcKIN3kMi-131" target="LTcShVjCQXSDcKIN3kMi-145">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LTcShVjCQXSDcKIN3kMi-131" value="Piece Together the Puzzle" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-350" y="520" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LTcShVjCQXSDcKIN3kMi-136" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.657;entryY=-0.008;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LTcShVjCQXSDcKIN3kMi-133" target="LTcShVjCQXSDcKIN3kMi-135">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LTcShVjCQXSDcKIN3kMi-133" value="Confront the True Culprit" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LTcShVjCQXSDcKIN3kMi-147" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LTcShVjCQXSDcKIN3kMi-135" target="LTcShVjCQXSDcKIN3kMi-145">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LTcShVjCQXSDcKIN3kMi-135" value="Reveal the Mastermind" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-250" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LTcShVjCQXSDcKIN3kMi-140" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LTcShVjCQXSDcKIN3kMi-137" target="LTcShVjCQXSDcKIN3kMi-139">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LTcShVjCQXSDcKIN3kMi-137" value="Engage in High-stakes Confrontation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LTcShVjCQXSDcKIN3kMi-148" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.751;entryY=0.041;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LTcShVjCQXSDcKIN3kMi-139" target="LTcShVjCQXSDcKIN3kMi-145">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LTcShVjCQXSDcKIN3kMi-139" value="Subdue the Culprit" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="640" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LTcShVjCQXSDcKIN3kMi-144" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LTcShVjCQXSDcKIN3kMi-141" target="LTcShVjCQXSDcKIN3kMi-143">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LTcShVjCQXSDcKIN3kMi-141" value="Save the Vanished Individuals" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LTcShVjCQXSDcKIN3kMi-149" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LTcShVjCQXSDcKIN3kMi-143" target="LTcShVjCQXSDcKIN3kMi-145">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LTcShVjCQXSDcKIN3kMi-143" value="Break the Curse" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LTcShVjCQXSDcKIN3kMi-145" value="END" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="780" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
